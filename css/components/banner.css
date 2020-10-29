@@ -1,0 +1,14 @@
+.banner {
+    display: flex;
+    /* position: relative; */
+    padding: 200px;
+    background-image: url(../../images/background.png);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+}
+
+.banner h1{
+    color: white;
+}

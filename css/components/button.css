@@ -1,0 +1,19 @@
+.banner-button{
+    /* position: absolute;
+    bottom: 95px;
+    left: 9px; */
+    align-items: center;
+    color: white;
+    margin: 16px 32px;
+    background-color: #3ac162;
+    padding: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+    opacity: .6;
+    display: inline-block;
+    border-radius: 24px;
+}
+
+.banner-button:hover{
+    opacity: 1;
+}
